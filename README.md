@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0912-sort-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -61,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [2643-row-with-maximum-ones](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
