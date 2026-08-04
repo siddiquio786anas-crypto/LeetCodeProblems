@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
