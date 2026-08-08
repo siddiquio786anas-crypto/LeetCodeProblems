@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 | [0912-sort-an-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
