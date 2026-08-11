@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
+| [0791-custom-sort-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0791-custom-sort-string) |
 | [0912-sort-an-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0791-custom-sort-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0791-custom-sort-string) |
 | [2325-decode-the-message](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2325-decode-the-message) |
 ## Binary Search
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
+| [0791-custom-sort-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0791-custom-sort-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
