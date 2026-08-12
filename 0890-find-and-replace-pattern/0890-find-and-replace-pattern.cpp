@@ -1,18 +1,18 @@
 class Solution {
 public:
-    string ns(string &str){
+    string ns(string &words){
         unordered_map<char,char>mp;
         char s='a';
-        for(int i=0;i<str.length();i++){
-            char ch=str[i];
+        for(int i=0;i<words.length();i++){
+            char ch=words[i];
             if(mp.find(ch)==mp.end()){
                 mp[ch]=s;
                 s++;
             }
         }
         string ansstring="";
-        for(int i=0;i<str.length();i++){
-            char ch=str[i];
+        for(int i=0;i<words.length();i++){
+            char ch=words[i];
             char mpch=mp[ch];
             ansstring.push_back(mpch);
         }
