@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0791-custom-sort-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0791-custom-sort-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
