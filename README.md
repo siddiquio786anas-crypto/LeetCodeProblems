@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2325-decode-the-message](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Sliding Window
