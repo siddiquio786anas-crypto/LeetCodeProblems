@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0890-find-and-replace-pattern) |
@@ -179,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
