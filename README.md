@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0890-find-and-replace-pattern) |
 | [0912-sort-an-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1901-find-a-peak-element-ii) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2643-row-with-maximum-ones](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2643-row-with-maximum-ones) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
