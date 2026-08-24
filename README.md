@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
@@ -186,4 +188,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
