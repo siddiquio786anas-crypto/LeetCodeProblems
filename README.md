@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0890-find-and-replace-pattern) |
 | [0912-sort-an-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0912-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1901-find-a-peak-element-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0890-find-and-replace-pattern) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2325-decode-the-message](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2325-decode-the-message) |
 ## Binary Search
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Enumeration
