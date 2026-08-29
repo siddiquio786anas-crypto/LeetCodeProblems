@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1901-find-a-peak-element-ii) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-reorganize-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0912-sort-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1901-find-a-peak-element-ii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
