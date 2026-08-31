@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
