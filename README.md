@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0179-largest-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Matrix
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
