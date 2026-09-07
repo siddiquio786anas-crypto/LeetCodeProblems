@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0198-house-robber) |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0242-valid-anagram) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0767-reorganize-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0912-sort-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0242-valid-anagram) |
@@ -258,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
