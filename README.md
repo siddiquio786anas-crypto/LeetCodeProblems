@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
