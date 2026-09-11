@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0784-letter-case-permutation](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0784-letter-case-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0767-reorganize-string) |
+| [0784-letter-case-permutation](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0890-find-and-replace-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0784-letter-case-permutation) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
