@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0784-letter-case-permutation](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0784-letter-case-permutation) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2325-decode-the-message](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0784-letter-case-permutation) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
