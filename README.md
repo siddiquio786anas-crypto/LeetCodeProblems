@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2643-row-with-maximum-ones) |
+| [3875-construct-uniform-parity-array-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2523-closest-prime-numbers-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3870-count-commas-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
