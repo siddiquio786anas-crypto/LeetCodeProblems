@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0791-custom-sort-string) |
 | [0912-sort-an-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0912-sort-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2523-closest-prime-numbers-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2523-closest-prime-numbers-in-range) |
+| [3536-maximum-product-of-two-digits](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
