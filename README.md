@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1688-count-of-matches-in-tournament](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 | [2523-closest-prime-numbers-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3870-count-commas-in-range) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0415-add-strings) |
+| [1688-count-of-matches-in-tournament](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
