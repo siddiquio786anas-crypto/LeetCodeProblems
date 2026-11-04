@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0048-rotate-image) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0189-rotate-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0509-fibonacci-number) |
@@ -333,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
