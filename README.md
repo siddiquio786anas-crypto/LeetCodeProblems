@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0791-custom-sort-string) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 ## Manacher
 |  |
 | ------- |
