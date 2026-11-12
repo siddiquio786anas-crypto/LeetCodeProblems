@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2643-row-with-maximum-ones) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
