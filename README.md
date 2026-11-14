@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2643-row-with-maximum-ones) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3364-minimum-positive-sum-subarray](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3364-minimum-positive-sum-subarray](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
