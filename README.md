@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 | [2523-closest-prime-numbers-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3364-minimum-positive-sum-subarray](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
