@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0090-subsets-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
