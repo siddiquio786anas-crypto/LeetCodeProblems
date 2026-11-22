@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2325-decode-the-message](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
