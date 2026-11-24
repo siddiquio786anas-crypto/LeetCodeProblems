@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2643-row-with-maximum-ones) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 | [2523-closest-prime-numbers-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2523-closest-prime-numbers-in-range) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3364-minimum-positive-sum-subarray](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -292,11 +295,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2523-closest-prime-numbers-in-range) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
