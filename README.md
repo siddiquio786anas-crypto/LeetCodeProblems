@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0136-single-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0079-word-search) |
 | [1901-find-a-peak-element-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2643-row-with-maximum-ones) |
 ## Interactive
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -388,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
