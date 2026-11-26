@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 | [2523-closest-prime-numbers-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2523-closest-prime-numbers-in-range) |
+| [3360-stone-removal-game](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3870-count-commas-in-range) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
