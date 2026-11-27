@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0784-letter-case-permutation](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/siddiquio786anas-crypto/LeetCodeProblems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
